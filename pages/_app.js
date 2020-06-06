@@ -11,6 +11,7 @@ export default class CustomApp extends App {
             name="viewport"
             content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no"
           />
+          <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css' />
           <style global jsx>{`
             html,
             body {
